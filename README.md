@@ -11,3 +11,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 * Create the metrics according to the metric list.
 * Create a dashboard according to the mock-up provided by stakeholders.
 * Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+  # Hospitality-Domain-Revenue-Insights
+![Screenshot (458)](https://github.com/SumeetTompe070/Hospitality-Domain-Revenue-Insights/assets/140255237/6215ebf9-e1b6-4924-b314-63fc9b5394ba)
+
